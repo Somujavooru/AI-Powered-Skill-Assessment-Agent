@@ -1,0 +1,12 @@
+2026-04-26 22:25:05.162 No ASGI app assignments found in C:\Users\somas\Desktop\Coding\DecanAi\app.py
+2026-04-26 22:25:05.277 Filtered 93 packages down to 1 candidates for component scanning
+2026-04-26 22:25:05.278 Scanning 1 candidate packages for component manifests using 1 worker threads
+2026-04-26 22:25:05.286 Found 0 component manifests total
+2026-04-26 22:25:05.287 No asset roots to watch
+2026-04-26 22:25:05.289 File watching not started
+2026-04-26 22:25:05.291 Starting new event loop for server
+2026-04-26 22:25:05.293 Starting server...
+2026-04-26 22:25:05.294 Serving static content from c:\Users\somas\Desktop\Coding\DecanAi\.venv\lib\site-packages\streamlit\static
+2026-04-26 22:25:05.300 Server started on port 8501
+2026-04-26 22:25:05.301 Runtime state: RuntimeState.INITIAL -> RuntimeState.NO_SESSIONS_CONNECTED
+2026-04-26 22:25:05.327 Setting up signal handler
